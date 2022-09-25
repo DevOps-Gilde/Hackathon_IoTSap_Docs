@@ -1,4 +1,4 @@
-# DevOps-Hackathon (Azure DevOps/ GitHub Actions)
+# IoT/SAP-Hackathon
 
 ## Prerequirements
 
