@@ -1,6 +1,7 @@
 # IoT/SAP-Hackathon
 
 ## Overview
+ALBRECHT IS DA KIINGGGGG *GOLDEN*!
 
 TODO state what the Hackathon is about 8Starting pint is this URL: https://github.com/ROBROICH/SAP_AND_AZURE_IOT_DEMO)
 
