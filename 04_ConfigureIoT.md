@@ -9,4 +9,6 @@ Next you will complete the IoT part. The adjustments are done via portal. Login 
 
 # 2. Configure IoT services
 
-TODO
+TODO also describe quickly how to login to Azure portal
+
+TODO Takover relevant steps from this documentation https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started

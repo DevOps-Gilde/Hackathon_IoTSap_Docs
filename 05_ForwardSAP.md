@@ -1,13 +1,15 @@
-# 1. Introduction to forwarding to SAP
+# 1. Introduction to Forward to SAP
 
 You should now have Completed the Following things:
-1. Setup your Azure DevOps Organization/ Project
-2. Setup your Azure DevOps Repository
-3. Setup your Azure DevOps Service Connection
-4. Setup the Infrastucture
+1. Setup your GitHub Account
+2. Setup your GitHub Repository
+3. Setup your Starting Point
+4. Configure IoT
 
-Next you will deploy the code to your web application. The code we already created for you. The major task left for you is to create a pipeline based on the provided code.
+Next you will complete the part to forward information to SAP. The adjustments are done via portal. Login with the username you picked from the list.
 
-# 1. Configure forwarding to SAP
+# 2. Configure Logic App
 
-TODO
+TODO refer to previous article for logging in to Azure portal
+
+TODO Takover relevant steps from this documentation https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
